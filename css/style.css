@@ -8,6 +8,7 @@
 }
 
 #image{
+	/**centering the image**/
 	margin:auto;display:block;
 	width: 100%; height: auto;
 }
