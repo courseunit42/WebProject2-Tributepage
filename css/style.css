@@ -1,8 +1,19 @@
 /***stylesheet***/
-#title{
+#title,#img-caption{
 	
 	font-size:30px;
 	font-weight:700;
 	text-align:center;
 	
+}
+
+#image{
+	margin:auto;display:block;
+}
+
+#img-caption, #tribute-info{
+	font-size:15px;font-weight:500;margin-top:15px;text-align:center;
+}
+#tribute-info{
+	font-weight:800;margin-top:40px;
 }
